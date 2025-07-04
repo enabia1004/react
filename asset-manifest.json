@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/enabia1004/react/static/css/main.be59c939.css",
-    "main.js": "/enabia1004/react/static/js/main.dbaf65fa.js",
-    "index.html": "/enabia1004/react/index.html",
-    "main.be59c939.css.map": "/enabia1004/react/static/css/main.be59c939.css.map",
-    "main.dbaf65fa.js.map": "/enabia1004/react/static/js/main.dbaf65fa.js.map"
+    "main.css": "/react/static/css/main.be59c939.css",
+    "main.js": "/react/static/js/main.dbaf65fa.js",
+    "index.html": "/react/index.html",
+    "main.be59c939.css.map": "/react/static/css/main.be59c939.css.map",
+    "main.dbaf65fa.js.map": "/react/static/js/main.dbaf65fa.js.map"
   },
   "entrypoints": [
     "static/css/main.be59c939.css",
